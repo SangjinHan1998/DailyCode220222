@@ -1,0 +1,43 @@
+#w3c{
+    box-sizing:content-box;
+    width: 400px;
+    margin: 50px;
+    border: 10px solid red;
+    padding: 20px;
+}
+#ie{
+    box-sizing:border-box;
+    width: 400px;
+    margin: 50px;
+    border: 10px solid red;
+    padding: 20px;
+}
+  
+
+box {
+    padding: 10px;
+    margin: 10px;
+    background-color: lightgray;
+}
+
+.left{float: left;}
+.right{float: right;}
+
+main{
+    border: 5px solid #666;
+}
+
+section {
+    float: left;
+    width: 23%;
+    height: 200px;
+    margin: 1%;
+    background-color: lightblue;
+}
+
+article {
+    clear: both;
+    height: 50px;
+    margin: 1%;
+    background-color: lightcoral;
+}

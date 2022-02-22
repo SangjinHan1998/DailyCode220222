@@ -1,0 +1,12 @@
+#box    {
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    cursor: pointer;
+}
+/*cursor 속성 --> 커서 모양 설정*/
+
+#book   {
+    cursor: pointer;
+    box-shadow: 5px 5px 2px #888;
+}
